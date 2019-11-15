@@ -1,0 +1,218 @@
+body {
+    font-family:arial;
+    margin=0px;
+    background-color: #eee
+}
+
+
+#Titre {
+    background-color:black;
+    color:white;
+    width: 100%;
+    height:auto;
+    text-align: center;
+}
+
+#Titre ul {
+    text-align: right;
+    margin-right: 10px;
+    margin-bottom: 0px;
+}
+
+#Titre ul li{
+    display:inline-block;
+    margin-left: 25px;
+}
+#Titre ul li a {
+    text-decoration: none;
+    color:white;
+    
+}
+
+#Titre ul li a:hover{
+    background-color: black;
+    color:#B59100;
+}
+
+#Intro img {
+    width:100%;
+    margin-top: 0px;
+}
+
+#Intro p{
+    text-align: center;
+    border-width: 2px;
+    border-style:groove;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    border-color:#B59100;
+    
+}
+
+
+
+#Histoire h2{
+    background-color: black;
+    height:auto;
+    width=100%;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color:white;
+    text-align: center;
+}
+#Histoire p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
+#Histoire p a {
+    color:black;
+}
+
+#Histoire figure {
+    float: left;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    margin-right: 10px;
+    font-style: italic;
+    font-size:12px;
+    text-align: center;  
+}
+
+#Histoire figure figcaption a {
+    text-decoration: none;
+    color: black;
+}
+
+#Histoire figure figcaption a:hover {
+    background-color: black;
+    color:white;
+}
+
+#Techniques h2 {
+    background-color:black;
+    color:white;
+    text-align:center;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+#Techniques figure  {
+    float: left;
+    margin-right: 10px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+#Techniques figure img {
+    width:100px;
+    height: auto;
+}
+
+#Techniques figure figcaption {
+    text-align: center
+}
+#Techniques figure figcaption a {
+    color:black;
+    text-decoration: none;
+    font-size:12px;
+    font-style: italic;
+}
+
+#Techniques figure figcaption a:hover {
+    background-color: black;
+    color:white;    
+}
+
+#Techniques p {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: justify;
+    margin-left: 10px;
+}
+
+#Techniques #hongesagatame img {
+    width: 150px;
+    height:90px
+}
+#Techniques video {
+    width:100%;
+}
+
+#Champions h2 {
+    background-color: black;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 0px;
+    margin-right:0px;
+    color:white;
+    text-align:center;
+}
+
+#Champions ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+#Champions ul li a:hover {
+    color:white;
+    background-color: black;
+}
+
+
+#Champions ul li{
+    display: inline-block;
+    font-size:16px;
+    margin-left: 20px;
+}
+
+#Champions ul {
+    text-align: center;
+}
+ 
+#Champions #podium {
+    width:100%;
+}
+
+#Champions p a {
+    color:black;
+}
+
+#Champions p a:hover {
+    color: white;
+    background-color: black;
+}
+
+#Champions p {
+    text-align: center;
+}
+
+#Credits {
+    background-color: black;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: 0px
+}
+
+#Credits ul li {
+    display: inline-block;
+    color:white;
+    margin-right: 20px;
+}
+
+#Credits ul li:hover {
+    color:#B59100;
+    background-color: black;
+}
+
+#Credits ul {
+    margin-bottom: 0px;
+    margin-top: 5px;
+    text-align: center;
+}
